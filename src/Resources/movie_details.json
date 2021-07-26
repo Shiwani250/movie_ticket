@@ -1,0 +1,109 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Thor",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91l5WO1j5ML.jpg",
+      "genre": "Action, Adenture, comedy",
+      "director": "Taika Waititi",
+      "stars": "Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Mark Ruffalo",
+      "plot": "Thor is imprisoned on the planet Sakaar, and must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
+      "currency": "THB",
+      "prices": {
+      "normal": 200,
+      "superior": 300,
+      "sofa": 600
+      }
+    },
+    {
+      "id": 2,
+      "title": "Wonder woman",
+      "genre": "Action, Adenture, Fantasy",
+      "director": "Patty Jenkins",
+      "stars": "Gal Gadot, Chris Pine, Robin Wright, Lucy Davis",
+      "plot": "When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwr_g0X-Q8tAbzNWdoQkrxnblbEZUkDd7YoQ&usqp=CAU",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 3,
+      "title": "Logan",
+      "genre": "Action, Drama, Sci-Fi",
+      "director": "James Mangold ",
+      "stars": "Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook",
+      "plot": "In the near future, a weary Logan cares for an ailing Professor X, somewhere on the Mexican border. However, Logan's attempts to hide from the world, and his legacy, are upended when a young mutant arrives, pursued by dark forces.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMLcPhgrD_z8vgaWOfd1KjTFlTXoVgig49gw&usqp=CAU",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 4,
+      "title": "Despicable me 3",
+      "genre": "Action, Drama, Sci-Fi",
+      "director": "James Mangold ",
+      "stars": "Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook",
+      "plot": "Gru meets his long-lost charming, cheerful, and more successful twin brother Dru who wants to team up with him for one last criminal heist.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM42FuJzCuMEE0zq6TvIYrgxEuyDbzjOeUsg&usqp=CAU",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 5,
+      "title": "Star war",
+      "genre": "Action, Drama, Sci-Fi",
+      "director": "James Mangold ",
+      "stars": "Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook",
+      "plot": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScIQi4PSqQ7O6Jd02ZQ3vLRdC5bxxwYxXHFg&usqp=CAU",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 6,
+      "title": "Pitch Perfect 3",
+      "genre": "Animation, Action, Adventure",
+      "director": "Trish Sie",
+      "stars": "Anna Kendrick, Rebel Wilson, Brittany Snow, Anna Camp",
+      "plot": "Following their win at the world championship, the now separated Bellas reunite for one last singing competition at an overseas USO tour, but face a group who uses both instruments and voices.",
+      "image": "https://images.moviesanywhere.com/583c12630cddc96f5984f0be6d3272ce/9f51fe1e-4e81-478c-a2ff-5f4044565f03.jpg",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 7,
+      "title": "Opération casse-noisette 2",
+      "genre": "Animation, Action, Adventure",
+      "director": "Cal Brunker",
+      "stars": "Will Arnett, Maya Rudolph, Bobby Cannavale, Bobby Moynihan",
+      "plot": "Following the events of the first film, Surly and his friends must stop Oakton City's mayor from destroying their home to make way for a dysfunctional amusement park.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgHEVi0918Lo85aL-x4XWqb3e1COgTtONu_w&usqp=CAU",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    }
+  ]
+}

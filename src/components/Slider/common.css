@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.heading {
+  color: #fa9191 !important;
+  text-transform: capitalize;
+  font-weight: bold;
+}
+
+img.slider_image {
+  max-height: 30em;
+  object-fit: fill;
+  width: 100%;
+  min-width: 10em;
+}
